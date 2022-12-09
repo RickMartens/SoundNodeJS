@@ -1,0 +1,22 @@
+{
+  "main": "main.js",
+  "name": "soundnodejs",
+  "description": "",
+  "version": "1.0.0",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickMartens/SoundNodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickMartens/SoundNodeJS/issues"
+  },
+  "homepage": "https://github.com/RickMartens/SoundNodeJS#readme"
+}
